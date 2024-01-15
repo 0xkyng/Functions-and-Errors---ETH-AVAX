@@ -49,4 +49,3 @@ Checks if a user is registered.
 **Note:** This function uses the `assert()` statement to ensure that the registration status check is accurate.
 
 
-# Functions-and-Errors---ETH-AVAX
